@@ -6,4 +6,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickeyy&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </a>
-[![Spotify](https://dickeyy.vercel.app/api/spotify)](https://open.spotify.com/user/r7ewxyzhfaehd0nli8rvnklts)
+[![Spotify](https://dickeyy-4asxfm0d7-dickeyy.vercel.app/api/spotify)](https://open.spotify.com/user/r7ewxyzhfaehd0nli8rvnklts)
