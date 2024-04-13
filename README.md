@@ -1,3 +1,13 @@
+```ts
+const me = {
+  age: 19,
+  tech: {
+    frontend: ["typescript", "tailwind", "nextjs"],
+    backend: ["typescript", "go", "python", "java", "postgres" "mysql", "redis"],
+    other: ["aws", "gcp", "docker", "unix", "ci/cd"]
+  }
+}
+```
 <!--START_SECTION:waka-->
 
 ```txt
@@ -16,3 +26,7 @@ CSS               4 hrs 24 mins   ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+*Windows text rendering messes up the bars :(*
+
+*Provided by WakaTime, since June 23, 2023*
