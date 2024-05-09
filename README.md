@@ -1,6 +1,6 @@
 ```ts
 const me = {
-  age: 19,
+  age: 20,
   tech: {
     frontend: ["typescript", "tailwind", "nextjs"],
     backend: ["typescript", "go", "python", "java", "postgres" "mysql", "redis"],
