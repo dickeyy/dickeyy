@@ -19,18 +19,18 @@ Time Per Language
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 645 hrs 52 mins
+Total Time: 648 hrs 4 mins
 
-TypeScript        388 hrs 54 mins ██████████████▓░░░░░░░░░░   59.16 %
-JavaScript        78 hrs 57 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-Go                35 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Java              35 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Markdown          19 hrs 2 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-YAML              18 hrs 24 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Astro             15 hrs 3 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-JSON              13 hrs 45 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Bash              12 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Other             11 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+TypeScript        388 hrs 58 mins ██████████████▓░░░░░░░░░░   58.94 %
+JavaScript        78 hrs 57 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+Java              36 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Go                35 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Markdown          19 hrs 10 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+YAML              18 hrs 26 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Astro             15 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+JSON              13 hrs 50 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Bash              12 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Other             11 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
