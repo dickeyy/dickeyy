@@ -8,13 +8,6 @@ const me = {
   }
 }
 ```
-### Stats
-
-Coding Heatmap
- 
-<img src="https://wakatime.com/share/@dickey/75a000eb-7254-4d1a-890a-ae386a589cf1.svg"></img>
- 
-Time Per Language
 
 <!--START_SECTION:waka-->
 
