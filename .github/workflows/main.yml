@@ -52,8 +52,3 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: dickey
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: dickey
