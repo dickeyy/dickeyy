@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 ```ts
 const me = {
   age: 20,
